@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+body {
+	text-align: center;
+	line-height: 0px;
+	column-gap: 0px; 
+}
+
+
+h1 {
+	font-family: Comic Sans MS;
+	font-weight: lighter;
+}
+
+
+.cb0{
+	margin-right: -4px;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	background-color: purple;
+	column-gap: 0px;
+}
+
+.cb1{
+	margin-right: -4px;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	background-color: blue;
+	column-gap: 0px;
+}
